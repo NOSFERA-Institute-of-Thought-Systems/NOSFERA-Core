@@ -1,0 +1,13 @@
+/* Remove default browser styles */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Prevent scrollbars from appearing */
+}
+
+/* Make the React root element fill the entire screen */
+#root {
+  width: 100vw;  /* 100% of viewport width */
+  height: 100vh; /* 100% of viewport height */
+}

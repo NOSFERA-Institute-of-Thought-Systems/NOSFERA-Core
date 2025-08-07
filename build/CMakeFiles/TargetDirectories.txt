@@ -1,0 +1,3 @@
+/Users/apple/Developer/GitHub/NOSFERA-Core/build/CMakeFiles/cognito_target.dir
+/Users/apple/Developer/GitHub/NOSFERA-Core/build/CMakeFiles/edit_cache.dir
+/Users/apple/Developer/GitHub/NOSFERA-Core/build/CMakeFiles/rebuild_cache.dir
